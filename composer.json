@@ -1,0 +1,15 @@
+{
+    "name": "traindown/traindown-php",
+    "description": "PHP Library for the Traindown Markup Language",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rbarden\\Traindown\\": "src/"
+        }
+    }
+}
