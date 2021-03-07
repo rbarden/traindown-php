@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Rbarden\Traindown\Traindown;
+namespace Traindown\Traindown;
 
-use Rbarden\Traindown\Traindown\Meta\HasMetadata;
+use Traindown\Traindown\Meta\HasMetadata;
 
 class Document
 {

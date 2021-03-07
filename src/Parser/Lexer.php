@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Rbarden\Traindown\Parser;
+namespace Traindown\Parser;
 
 use Generator;
 

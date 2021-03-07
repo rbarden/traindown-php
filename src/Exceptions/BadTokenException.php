@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Rbarden\Traindown\Exceptions;
+namespace Traindown\Exceptions;
 
 use Exception;
-use Rbarden\Traindown\Parser\Token;
+use Traindown\Parser\Token;
 
 class BadTokenException extends Exception
 {

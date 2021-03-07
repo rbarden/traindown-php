@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Rbarden\Traindown\Traindown\Meta;
+namespace Traindown\Traindown\Meta;
 
 trait HasMetadata
 {

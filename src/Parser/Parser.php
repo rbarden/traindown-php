@@ -2,15 +2,15 @@
 
 declare(strict_types=1);
 
-namespace Rbarden\Traindown\Parser;
+namespace Traindown\Parser;
 
-use Rbarden\Traindown\Exceptions\BadTokenException;
-use Rbarden\Traindown\Traindown\Document;
-use Rbarden\Traindown\Traindown\Meta\Data;
-use Rbarden\Traindown\Traindown\Meta\Note;
-use Rbarden\Traindown\Traindown\Movement;
-use Rbarden\Traindown\Traindown\Performance;
-use Rbarden\Traindown\Traindown\Session;
+use Traindown\Exceptions\BadTokenException;
+use Traindown\Traindown\Document;
+use Traindown\Traindown\Meta\Data;
+use Traindown\Traindown\Meta\Note;
+use Traindown\Traindown\Movement;
+use Traindown\Traindown\Performance;
+use Traindown\Traindown\Session;
 
 class Parser
 {

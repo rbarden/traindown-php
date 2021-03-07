@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Rbarden\Traindown\Traindown\Meta;
+namespace Traindown\Traindown\Meta;
 
-use Rbarden\Traindown\Parser\Token;
+use Traindown\Parser\Token;
 
 class Data
 {

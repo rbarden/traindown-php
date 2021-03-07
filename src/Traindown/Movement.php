@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Rbarden\Traindown\Traindown;
+namespace Traindown\Traindown;
 
-use Rbarden\Traindown\Parser\Token;
-use Rbarden\Traindown\Traindown\Meta\HasMetadata;
+use Traindown\Parser\Token;
+use Traindown\Traindown\Meta\HasMetadata;
 
 class Movement
 {
